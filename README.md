@@ -1,5 +1,5 @@
 # AppO
-just deskstop app for excercise :)
+just excercise of learn deskstop app :)
 
 `write on java with IntelliJ IDEA.
 `
