@@ -13,12 +13,7 @@ public class AppO {
 
 
     public AppO() {
-        btnLogin.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent actionEvent) {
-                JOptionPane.showMessageDialog(null,"Bismillah..");
-            }
-        });
+        btnLogin.addActionListener(actionEvent -> JOptionPane.showMessageDialog(null,"Bismillah.."));
     }
 
     public static void main(String[] args) {
