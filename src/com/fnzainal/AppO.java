@@ -10,6 +10,8 @@ import java.awt.event.ActionListener;
 public class AppO {
     private JPanel panelMain;
     private JButton btnLogin;
+    private JPasswordField passwordField1;
+    private JFormattedTextField formattedTextField1;
 
 
     public AppO() {
